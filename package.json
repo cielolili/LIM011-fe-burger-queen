@@ -2,7 +2,7 @@
   "name": "burger-queen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/cielolili/LIM011-fe-burger-queen",
+  "homepage": "https://cielolili.github.io/LIM011-fe-burger-queen",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
