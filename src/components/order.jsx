@@ -46,7 +46,7 @@ function Order({
   return (
     <div>
       <span>Nombre del cliente</span>
-      <input type="text" value={client} onChange={NameClient} />
+      <input placeholder="inserte nombre" type="text" value={client} onChange={NameClient} />
       <table className="table table-bordered table-dark">
         <thead>
           <tr>
@@ -72,7 +72,7 @@ function Order({
       <div className="container">
 
         <button
-          type="button"
+          type="submit"
           className="btn btn-primary"
           data-toggle="modal"
           data-target="#exampleModal"
